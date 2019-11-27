@@ -3,7 +3,6 @@ import contacts from "./contacts.json";
 import "./App.css";
 
 const ContactList = props => {
-  console.log(props);
   return (
     <table
       style={{
